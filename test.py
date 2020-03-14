@@ -1,4 +1,6 @@
 print("Hello")
 
 def func():
-    pass
+    print("Hello from func")
+
+func()
